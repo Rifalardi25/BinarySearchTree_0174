@@ -25,5 +25,10 @@ class BinaryTree
         ROOT = nullptr; // Initializing ROOT to NULL
     }
 
+    void insert()
+    {
+
+    }
+
 
 };
