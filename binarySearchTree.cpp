@@ -15,3 +15,7 @@ class Node {
     }
 };
 
+class BinaryTree
+{
+
+};
